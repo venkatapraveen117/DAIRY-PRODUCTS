@@ -1,2 +1,2 @@
-The purpose of this project is to simulate a simple Dairy Product Billing System by using java.
-Jva Mini Project.
+The purpose of this project is to simulate a simple Dairy Product Billing System by using java.    
+Java Mini Project.
